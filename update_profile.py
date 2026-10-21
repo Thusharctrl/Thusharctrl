@@ -87,6 +87,10 @@ def build_projects_table(repositories: list[dict], owner: str) -> str:
         language = repo.get("language") or "—"
         updated = format_date(repo.get("updated_at", ""))
 
+        # Skip apparent scratch / unnamed repos (name ends with a dash).
+        if name.endswith("-"):
+            continue
+
         rows.append(
             f"| [{name}]({url}) | {description} | "
             f"{language} | {updated} |"
