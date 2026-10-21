@@ -176,8 +176,9 @@ Structured NeetCode.io problem submissions for building algorithmic problem-solv
 <!-- PROJECTS:START -->
 | Repository | Description | Language | Updated |
 |---|---|---|---|
-| [neetcode-submissions](https://github.com/Thusharctrl/neetcode-submissions) | My NeetCode.io problem submissions | Python | 2026-10-19 |
-| [YEMME-HAL-KUDITIRA-NEVU--JP](https://github.com/Thusharctrl/YEMME-HAL-KUDITIRA-NEVU--JP) | DBMS LAB | — | 2026-05-06 |
+| [neetcode-submissions](https://github.com/Thusharctrl/neetcode-submissions) | My NeetCode.io problem submissions | Python | 2026-10-21 |
+| [Modelshift](https://github.com/Thusharctrl/Modelshift) | ModelShift — AI Model Dependency Detection and Migration Testing | — | 2026-10-21 |
+| [YEMME-HAL-KUDITIRA-NEVU--JP](https://github.com/Thusharctrl/YEMME-HAL-KUDITIRA-NEVU--JP) | DBMS LAB | — | 2026-10-21 |
 | [FEWD-NULL-VAULT](https://github.com/Thusharctrl/FEWD-NULL-VAULT) | No description | JavaScript | 2025-11-25 |
 | [GLITCH-ESCAPE](https://github.com/Thusharctrl/GLITCH-ESCAPE) | this is my first git hub repositary | TypeScript | 2025-10-19 |
 <!-- PROJECTS:END -->
