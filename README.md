@@ -176,7 +176,7 @@ Structured NeetCode.io problem submissions for building algorithmic problem-solv
 <!-- PROJECTS:START -->
 | Repository | Description | Language | Updated |
 |---|---|---|---|
-| [OS_LAB](https://github.com/Thusharctrl/OS_LAB) | No description | — | 2026-11-09 |
+| [OS_LAB](https://github.com/Thusharctrl/OS_LAB) | No description | C | 2026-11-10 |
 | [JSF_Lab](https://github.com/Thusharctrl/JSF_Lab) | Detailed and simplified version of JSF programs | Java | 2026-10-30 |
 | [neetcode-submissions](https://github.com/Thusharctrl/neetcode-submissions) | My NeetCode.io problem submissions | Python | 2026-10-24 |
 | [Modelshift](https://github.com/Thusharctrl/Modelshift) | ModelShift — AI Model Dependency Detection and Migration Testing | — | 2026-10-21 |
